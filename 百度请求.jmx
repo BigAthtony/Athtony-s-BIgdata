@@ -184,7 +184,7 @@
         <stringProp name="ThreadGroup.delay"></stringProp>
       </ThreadGroup>
       <hashTree>
-        <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="一 获取微信token接口" enabled="false">
+        <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="一 获取微信token接口" enabled="true">
           <boolProp name="TransactionController.includeTimers">false</boolProp>
           <boolProp name="TransactionController.parent">false</boolProp>
         </TransactionController>
